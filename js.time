@@ -1,0 +1,5 @@
+
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,2 @@
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
